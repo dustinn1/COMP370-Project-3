@@ -6,7 +6,7 @@
 2. Inside the project folder, create a virtual environment by running
    - Unix/macOS: `python3 -m venv env`
    - Windows: `py -m venv env`
-3. Active the virtual environment
+3. Activate the virtual environment
    - Unix/macOS: `source env/bin/activate`
    - Windows: `.\env\Scripts\activate`
 4. Install packages: `pip3 install -r requirements.txt`
